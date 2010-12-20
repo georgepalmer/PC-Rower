@@ -1,0 +1,1 @@
+java -cp PC-Rower.jar:RXTXcomm.jar:swt.jar:dom4j-full.jar -Djava.library.path=. com/rowtheboat/controller/Start $1

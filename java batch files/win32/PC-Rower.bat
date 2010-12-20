@@ -1,0 +1,1 @@
+javaw -Xms64M -Xmx512M -cp swt.jar;comm.jar;RXTXcomm.jar;dom4j-full.jar;PC-Rower.jar -Djava.library.path=. com.rowtheboat.controller.Start %1

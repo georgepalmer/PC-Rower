@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Options>
+  <Standard>
+    <FullStrokeData>true</FullStrokeData>
+    <BoatSmoothing>true</BoatSmoothing>
+  </Standard>
+  <Input>
+    <SerialPort>COM1</SerialPort>
+  </Input>
+  <Race>
+    <Countdown>5</Countdown>
+  </Race>
+</Options>

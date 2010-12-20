@@ -1,0 +1,1 @@
+#!/bin/shjava_swt -cp swt.jar:dom4j-full.jar:PC-Rower.jar -Djava.library.path=. com.rowtheboat.controller.Start $1
